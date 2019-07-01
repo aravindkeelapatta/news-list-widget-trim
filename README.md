@@ -1,0 +1,1 @@
+# news-list-widget-trim
